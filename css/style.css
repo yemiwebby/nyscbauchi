@@ -4,9 +4,74 @@
 }
 
 #header_wrapper {
-	background: #175F13;
+	width: 100%;
+    min-height: 170px;
+    padding-bottom: 10px;
+    border-right: 2px solid #175f13;
+    border-left: 2px solid #175f13;
+    border-bottom: 2px solid #175f13;
 }
 
 #header_top {
 	color: #ffffff;
+
+	height: 35px;
+	width: 100%;
+	background: #175F13;
+
+}
+
+#welcome_message {
+	float: left;
+
+	line-height: 35px;
+	margin-left: 20px;
+}
+
+#icons_container {
+	float: right;
+	margin-right: 40px;
+	line-height: 35px;
+}
+
+
+#icons_container span {
+	color: #ffffff;
+    padding: 5px;
+    margin-right: 8px;
+}
+#logo_section {
+	text-align: center;
+	width: 100%;
+	margin-top: 30px;
+	height: 120px;
+}
+
+#nysc-logo {
+	width: 200px;
+	height: 100px;
+}
+
+#menu {
+	list-style-type: none;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    /* margin-left: 130px; */
+    display: block;
+    z-index: 9999;
+}
+
+#menu li {
+	display: inline-block;
+	margin: 2px;
+	text-align: center;
+}
+
+#menu li a {
+	text-decoration: none;
+	margin-left: 5px;
+    padding: 11px 10px;
+    color: #0a0b0d;
+    font-weight: bold;
 }
