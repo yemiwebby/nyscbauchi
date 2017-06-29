@@ -75,3 +75,206 @@
     color: #0a0b0d;
     font-weight: bold;
 }
+
+
+#slider_section {
+   height: 550px;
+   width: 100%;
+  background-image: url("../images/slide1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+}
+
+#main-content_wrapper {
+	width: 100%;
+}
+
+#welcome_caption {
+	 width: 100%;
+    min-height: 200px;
+    background: #f5f2f0;
+    padding: 40px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#welcome_caption_inner {
+	max-width: 700px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+
+
+
+
+#about_wrapper {
+	background-image: url("../images/newbanner.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 600px;
+  overflow: hidden;
+}
+
+#about_overlay {
+	background: rgba(0,0,0,0.75);
+	min-height: 600px;
+	box-sizing: border-box;
+	overflow: hidden;
+	width: 100%;
+}
+
+#meet2 {
+	float: left;
+	width: 34%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 80px;
+}
+
+#meet2 button {
+	width: 150px;
+	padding: 10px;
+	margin-top: 20px;
+	color: #ffffff;
+	background: green;
+	border: none;
+}
+
+
+#meet1 {
+	float: right;
+	width: 34%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 80px;
+}
+
+#meet1 button {
+	width: 150px;
+	padding: 10px;
+	margin-top: 20px;
+	color: #ffffff;
+	background: green;
+	border: none;
+}
+
+.meet-text p{
+	color: #ffffff;
+	margin-top: 15px;
+}
+
+
+#mission_wrapper {
+	height: 400px;
+	overflow: hidden;
+	width: 100%;
+	box-sizing: border-box;
+	color: grey;
+}
+
+#mission1 {
+	padding-top: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	box-sizing: border-box;
+	height: 400px;
+	float: left;
+	width: 33.33%;
+	background: white;
+}
+
+#mission1 h3 {
+	margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#mission1 p {
+	text-align: justify;
+}
+
+
+#mission2 {
+	padding-top: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	box-sizing: border-box;
+	height: 400px;
+	float: left;
+	width: 33.33%;
+	background: #F5F5F5;
+}
+
+#mission2 p {
+	text-align: justify;
+}
+
+#mission2 h3 {
+	margin-top: 20px;
+    margin-bottom: 10px;
+     text-align: center;
+}
+
+#mission3 {
+	padding-top: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	box-sizing: border-box;
+	height: 400px;
+	float: left;
+	width: 33.33%;
+	background: #F2F2F2;
+}
+
+#mission3 p {
+	text-align: justify;
+}
+
+#mission3 h3 {
+	margin-top: 20px;
+    margin-bottom: 10px;
+     text-align: center;
+}
+
+#quick-link ul{
+	list-style: none;
+}
+
+#quick-link li a {
+    text-decoration: none;
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
