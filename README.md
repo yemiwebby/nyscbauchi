@@ -1,3 +1,3 @@
 # nyscbauchi
 
-This is a tutorial for nyscbauchi landing page
+This is a repo for nyscbauchi website
